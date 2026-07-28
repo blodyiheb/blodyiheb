@@ -95,19 +95,49 @@ I'm a software engineer passionate about building complete products, from AI-pow
 
 ---
 
+---
+
 ## 🌟 Featured Projects
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/blodyiheb/SahtoutCMS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=blodyiheb&repo=SahtoutCMS&theme=github_dark" alt="SahtoutCMS"/>
-      </a>
+    <td width="50%">
+      <h3 align="center">🤖 BlediFirst</h3>
+      <p align="center">
+        <a href="https://github.com/blodyiheb/BlediFirst">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="BlediFirst"/>
+        </a>
+      </p>
+      <p align="center">AI-powered platform for smart city solutions</p>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/blodyiheb/amxmodx-cs16-plugins">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=blodyiheb&repo=amxmodx-cs16-plugins&theme=github_dark" alt="CS 1.6 Plugins"/>
-      </a>
+    <td width="50%">
+      <h3 align="center">⭐ SahtoutCMS</h3>
+      <p align="center">
+        <a href="https://github.com/blodyiheb/SahtoutCMS">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="SahtoutCMS"/>
+        </a>
+      </p>
+      <p align="center">Open-source Content Management System</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎮 CS 1.6 Plugins</h3>
+      <p align="center">
+        <a href="https://github.com/blodyiheb/amxmodx-cs16-plugins">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="CS 1.6 Plugins"/>
+        </a>
+      </p>
+      <p align="center">Custom Counter-Strike 1.6 plugins & enhancements</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚀 Game Launcher</h3>
+      <p align="center">
+        <a href="https://github.com/blodyiheb">
+          <img src="https://img.shields.io/badge/Coming_Soon-181717?style=for-the-badge&logo=github" alt="Game Launcher"/>
+        </a>
+      </p>
+      <p align="center">Custom game launcher with client login page customization</p>
     </td>
   </tr>
 </table>
@@ -126,12 +156,7 @@ I'm a software engineer passionate about building complete products, from AI-pow
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=blodyiheb&show_icons=true&theme=github_dark" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blodyiheb&layout=compact&theme=github_dark" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blodyiheb&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
+  <img height="170" src="https://github-stats-alpha.vercel.app/api?username=blodyiheb&theme=github-dark" alt="GitHub stats"/>
 </p>
 
 <p align="center">
@@ -152,15 +177,18 @@ I'm a software engineer passionate about building complete products, from AI-pow
 
 <p align="center">
   <a href="https://www.youtube.com/@Blodyone">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://www.linkedin.com/in/blody/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:blodyihebsahtout@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discord.com/invite/chxXTXXQ6M">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://gamebanana.com/members/4553795">
+    <img src="https://img.shields.io/badge/GameBanana-222222?style=for-the-badge&logo=gamebanana&logoColor=white" alt="GameBanana"/>
+  </a>
+  <a href="mailto:blodyihebsahtout@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
